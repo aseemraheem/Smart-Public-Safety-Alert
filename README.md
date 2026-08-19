@@ -135,6 +135,8 @@ Time remaining: 9 seconds
 
 ## 📸 Screenshots
 
+> ℹ️ Make sure the `assets/` folder sits in the **same directory** as this `README.md` (i.e. project root) when you upload to GitHub — the images below are linked relatively.
+
 <table>
 <tr>
 <td width="50%">
@@ -180,6 +182,8 @@ Time remaining: 9 seconds
 ---
 
 ## 👤 Author
+
+**Aseem Raheem**
 
 Built as part of a **Smart Public Safety Alert** initiative — exploring how simple AI logic can improve traffic management and emergency response times.
 
