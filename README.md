@@ -142,13 +142,13 @@ Time remaining: 9 seconds
 <td width="50%">
 
 **Traffic Light & AI Controller Logic**
-![Traffic Light Class](assets/code-traffic-light-class.png)
+![Traffic Light Class](code-traffic-light-class.png)
 
 </td>
 <td width="50%">
 
 **Traffic Controller — Emergency & Priority Handling**
-![Traffic Controller](assets/code-traffic-controller.png)
+![Traffic Controller](code-traffic-controller.png)
 
 </td>
 </tr>
@@ -156,13 +156,13 @@ Time remaining: 9 seconds
 <td width="50%">
 
 **Main Menu Loop**
-![Menu Loop](assets/code-menu-loop.png)
+![Menu Loop](code-menu-loop.png)
 
 </td>
 <td width="50%">
 
 **Live Demo Output**
-![Demo Output](assets/demo-terminal-output.png)
+![Demo Output](demo-terminal-output.png)
 
 </td>
 </tr>
