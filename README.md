@@ -2,7 +2,7 @@
 
 A Python-based console application that simulates an **intelligent 4-way traffic light controller**, capable of handling normal AI-driven traffic flow, emergency vehicle overrides, and priority vehicle overrides — complete with live countdown timers and color-coded terminal output.
 
-![Demo](assets/demo-terminal-output.png)
+![Demo](demo-terminal-output.png)
 
 ---
 
